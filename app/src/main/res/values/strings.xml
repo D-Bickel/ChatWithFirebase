@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatWithFirebase</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="layout">Layout</string>
+    <string name="logout">Logout</string>
+    <string name="find_user">Find User</string>
+    <string name="type_in_an_email">Type In An Email</string>
+    <string name="now_chatting_no_one">Now Chatting: No One</string>
+    <string name="chatting_with_no_one">Chatting With: No One</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type A Message</string>
+</resources>
